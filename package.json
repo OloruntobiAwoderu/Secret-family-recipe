@@ -1,0 +1,26 @@
+{
+  "name": "secret-family-recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OloruntobiAwoderu/Secret-family-recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OloruntobiAwoderu/Secret-family-recipe/issues"
+  },
+  "homepage": "https://github.com/OloruntobiAwoderu/Secret-family-recipe#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "knex": "^0.20.2",
+    "pg": "^7.12.1",
+    "sqlite3": "^4.1.0"
+  }
+}
