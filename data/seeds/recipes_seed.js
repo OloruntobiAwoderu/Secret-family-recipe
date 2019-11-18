@@ -1,5 +1,4 @@
-
- exports.seed = function(knex) {
+exports.seed = function(knex) {
   return knex("recipes").insert([
     {
       title: "Amala",
