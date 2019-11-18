@@ -21,8 +21,9 @@ exports.seed = function(knex) {
     {
       id: 4,
       name: "ronaldo",
-      email: "tobi3@gmail.com",
-      password: "florence"
-    }
+      password: "florence",
+      email: "tobi3@gmail.com"
+    },
+   
   ]);
 };
