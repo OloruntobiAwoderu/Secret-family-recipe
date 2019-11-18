@@ -16,7 +16,7 @@
        instructions:
          "Boil water, and then pour the cocoyam flour into the pot. stir well, until it comes out and the txture becomes smooth",
        category: "swallow",
-       user_id: 1
+       user_id: 3
      },
      {
        title: "rice",
